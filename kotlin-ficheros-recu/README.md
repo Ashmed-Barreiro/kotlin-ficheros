@@ -1,4 +1,4 @@
-# Kotlin – Práctica de Recuperación
+# Kotlin –  Recuperación
 
 Este proyecto contiene ejercicios y una mini app en JavaFX para practicar:
 
@@ -13,11 +13,3 @@ Este proyecto contiene ejercicios y una mini app en JavaFX para practicar:
 - `src/AppJavaFX.kt`: app gráfica para gestionar datos de clientes y productos.
 - `txt/arxiu.txt`: archivo de entrada con datos de ejemplo.
 - `txt/resumen.txt`: archivo generado con el resumen.
-
-## Cómo usar
-
-1. Asegúrate de tener JavaFX configurado.
-2. Ejecuta `AppJavaFX.kt` para probar la app.
-3. Usa `Colecciones.kt` y `Ficheros.kt` para repasar lógica y sintaxis.
-
-Perfecto para practicar de cara a la recuperación 💪
